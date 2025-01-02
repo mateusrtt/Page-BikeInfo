@@ -56,6 +56,11 @@ p{
     border-radius: 4px;
     color: #000000;
     text-transform: uppercase;
+    border: 2px solid #fff;
+}
+
+.menu a:hover{
+    border-color: #e21;
 }
 
 .conteudo{
@@ -97,6 +102,10 @@ p{
     text-transform: uppercase;
 }
 
+.botao:hover{
+    background: #900;
+}
+
 .subtitulo{
     font-size: 4rem;
     text-transform: uppercase;
@@ -117,6 +126,14 @@ p{
     grid-template-columns: auto 1fr;
     gap: 10px 20px;
     padding: 20px;
+}
+
+.vantagens-item:nth-child(odd){
+ background: #f7f7f7;
+}
+
+.vantagens-item:hover{
+    border-left: 4px solid #e21 ;
 }
 
 .vantagens-item p{
