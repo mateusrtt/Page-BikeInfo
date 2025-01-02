@@ -1,4 +1,4 @@
-# Projeto: BikeInfo - pagina simples em HTML e CSS
+# Projeto: BikeInfo - pagina em HTML e CSS
 
 Este projeto consiste em uma página simples criada com HTML e CSS. A página é construída de forma semântica e totalmente responsiva, utilizando os conceitos de Grid e Flexbox. Além disso, o layout foi otimizado para diferentes tamanhos de tela utilizando Media Queries.
 
